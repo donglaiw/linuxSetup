@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/donglaiwei/Code/connectomics-bazaar.github.io/proj/axonEM'
+let g:netrw_dirhist_3='/Users/donglaiwei/Code/game-top-banana'
+let g:netrw_dirhist_2='/Users/donglaiwei/Code/game-number/routes'
+let g:netrw_dirhist_1='/Users/donglaiwei/Code/game-number/node_modules'
